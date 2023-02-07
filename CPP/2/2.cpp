@@ -32,7 +32,7 @@ void areaPeri(int *aP,int *p){
     break;
 
     case 2: areaPeri(&area_rec,&peri);
-    cout<<"Area of circle is "<<area_rec<<"Circumference of circle is "<<peri<<endl;
+    cout<<"Area of rectangle is "<<area_rec<<"Perimeter of rectangle is "<<peri<<endl;
     break;
   }
  }
